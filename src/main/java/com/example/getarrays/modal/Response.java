@@ -19,4 +19,20 @@ public class Response {
     protected String message;
     protected String developerMessage;
     protected Map<?,?> data;
+
+   /* "timeStamp": "2023-08-18T21:32:02.3697604",
+            "statusCode": 200,
+            "status": "OK",
+            "message": "Servers retrieved",
+            "data": {
+        "server": [
+        {
+            "id": 1,
+                "ipAddress": "192.168.1.160",
+                "name": "Ubuntu Linux",
+                "memory": "16 GB",
+                "type": "Personal PC",
+                "imageUrl": "http://localhost:8080/server/image/server1.png",
+                "status": "SERVER_UP"
+        },*/
 }
